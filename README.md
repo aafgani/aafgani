@@ -11,12 +11,18 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div id="bio">
+
+ ### Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+ I'm a software engineer and father. I love programming and doing sport.
+ 
+ <div id="stats">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aafgani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </div>
 <!--
 **aafgani/aafgani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -26,4 +32,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
