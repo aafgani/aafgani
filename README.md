@@ -22,7 +22,7 @@
 ### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning devsecops, .net c#, react js and cosmos db
+- 🌱 I’m currently learning devsecops, .net c# & react js
 - 💬 Ask me about anything, I'm happy to help
 - 📫 How to reach me: <andrya.afgani@gmail.com>
 - 😄 Pronouns: he/him/his
