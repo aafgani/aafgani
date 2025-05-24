@@ -4,9 +4,6 @@
   <a href="https://id.linkedin.com/in/andrya-afgani-758462b2">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://twitter.com/yayakguns">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -20,7 +17,7 @@
 ## 🧰 Tech Stack
 - 💻 .NET (Framework & Core), ASP.NET, C#
 - ☁️ Azure (App Services, Functions, Container Apps, Entra, Key Vault, Storage, ARM, DevOps, etc.)
-- 🛠️ Docker, GitHub Actions, Bicep
+- 🛠️ Docker, GitHub Actions, Bicep/ARM
 - 📊 SQL Server, Entity Framework Core, Dapper
 
 ---
@@ -28,10 +25,10 @@
 ## 🎓 Certifications
 Here are some of the certifications I've earned:
 - **[AZ-204: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/AndryaAfgani-7883/A9A2E257A27899A8?sharingId=B4584CC3E59307E)**  
-- **[AZ-400: Azure DevOps Expert](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/)**
+- **[AZ-400: Azure DevOps Expert](https://learn.microsoft.com/api/credentials/share/en-us/AndryaAfgani-7883/FE9FA7B602D2856C?sharingId=B4584CC3E59307E)**
 <div>
-   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" title="AZ-204" alt="AZ-204" width="100" height="150"/>&nbsp;
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" title="AZ-204" alt="AZ-204" width="100" height="150"/>&nbsp;
+   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" title="AZ-204" alt="AZ-204" width="100" height="120"/>&nbsp;
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" title="AZ-204" alt="AZ-204" width="100" height="120"/>&nbsp;
 </div>
 
 ---
