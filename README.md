@@ -16,7 +16,7 @@
 
 ## 🧰 Tech Stack
 - 💻 .NET (Framework & Core), ASP.NET, C#
-- ☁️ Azure (App Services, Functions, Container Apps, Entra, Key Vault, Storage, ARM, DevOps, etc.)
+- ☁️ Azure (App Services, Functions, Container Apps, Entra, Key Vault, Storage, DevOps, etc.)
 - 🛠️ Docker, GitHub Actions, Bicep/ARM
 - 📊 SQL Server, Entity Framework Core, Dapper
 
