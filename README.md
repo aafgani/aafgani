@@ -40,6 +40,7 @@ Here are some projects I’m working on or have completed:
 - 🧪 [EF Core Minimal API Playground](https://github.com/aafgani/efcore-minimal-api) – CRUD with EF Core, Unit/Integration Testing, TestContainers
 
 ---
-### My Github Stats : 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aafgani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aafgani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### Github Stats : 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aafgani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />  
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aafgani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
