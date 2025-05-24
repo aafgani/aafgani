@@ -13,39 +13,34 @@
 </div>
 
  ### Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
- #### I'm a fullstack software engineer. I do love programming and doing sport.
- 
-<!--
-**aafgani/aafgani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+ I'm a software engineer with a strong focus on backend development using .NET, Azure, and DevOps practices. I enjoy building scalable microservices and integrating cloud-native solutions.
 
-### Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning devsecops, .net c# & react js
-- 💬 Ask me about anything, I'm happy to help
-- 📫 How to reach me: <andrya.afgani@gmail.com>
-- 😄 Pronouns: he/him/his
+## 🧰 Tech Stack
+- 💻 .NET (Framework & Core), ASP.NET, C#
+- ☁️ Azure (App Services, Functions, Container Apps, Entra, Key Vault, Storage, ARM, DevOps, etc.)
+- 🛠️ Docker, GitHub Actions, Bicep
+- 📊 SQL Server, Entity Framework Core, Dapper
 
-### :hammer_and_wrench: Languages and Tools :
+---
+
+## 🎓 Certifications
+Here are some of the certifications I've earned:
+- **[AZ-204: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/AndryaAfgani-7883/A9A2E257A27899A8?sharingId=B4584CC3E59307E)**  
+- **[AZ-400: Azure DevOps Expert](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/)**
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" title="AZ-204" alt="AZ-204" width="100" height="150"/>&nbsp;
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" title="AZ-204" alt="AZ-204" width="100" height="150"/>&nbsp;
 </div>
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+Here are some projects I’m working on or have completed:
+
+- 📝 [Money Manager Microservices](https://github.com/aafgani/money-manager) – Personal finance tracker built with .NET & Azure
+- 🧪 [EF Core Minimal API Playground](https://github.com/aafgani/efcore-minimal-api) – CRUD with EF Core, Unit/Integration Testing, TestContainers
 
 ---
 ### My Github Stats : 
