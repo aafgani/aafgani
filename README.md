@@ -1,24 +1,15 @@
 ### Hi there, I'm <label>Andrya Afgani</label> 👋
 
-<div id="social">
-  <a href="https://id.linkedin.com/in/andrya-afgani-758462b2">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/yayakguns">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
- ### Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=aafgani.aafgani)
+ ### Glad to see you here ! 
  I'm a software engineer with a strong focus on backend development using .NET, Azure, and DevOps practices. I enjoy building scalable microservices and integrating cloud-native solutions.
 
 ---
 
 ## 🧰 Tech Stack
-- 💻 .NET (Framework & Core), ASP.NET, C#
+- 💻 .NET (Full Framework & Core), ASP.NET, C#
 - ☁️ Azure (App Services, Functions, Container Apps, Entra, Key Vault, Storage, DevOps, etc.)
 - 🛠️ Docker, GitHub Actions, Bicep/ARM
-- 📊 SQL Server, Entity Framework Core, Dapper
+- 📊 SQL Server, Postgre Entity, Framework Core, Dapper
 
 ---
 
