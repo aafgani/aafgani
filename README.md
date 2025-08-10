@@ -1,18 +1,21 @@
 ### Hi there, I'm <label>Andrya Afgani</label> 👋
 
- ### Glad to see you here ! 
- I'm a software engineer with a strong focus on backend development using .NET, Azure, and DevOps practices. I enjoy building scalable microservices and integrating cloud-native solutions.
-
+#### 🌐 Software Engineer | .NET Specialist | DevSecOps Enthusiast 
 ---
 
-## 🧰 Tech Stack
-- 💻 .NET (Full Framework & Core), ASP.NET, C#
-- ☁️ Azure (App Services, Functions, Container Apps, Entra, Key Vault, Storage, DevOps, etc.)
-- 🛠️ Docker, GitHub Actions, Bicep/ARM
-- 📊 SQL Server, Postgre Entity, Framework Core, Dapper
-
+## 🚀 About Me
+- 👨‍💻 I'm a software engineer specializing in .NET technologies, including ASP.NET Core and C#, with strong expertise in Azure and DevSecOps practices.
+- 💡 I enjoy building scalable, high-performance web applications and integrating cloud-native solutions.
+- 🌱 Currently exploring cloud development with Azure, microservices architecture, and expanding my skills in DevSecOps.
 ---
 
+## 🛠️ Technologies & Tools
+- Languages: C#, JavaScript, SQL
+- Frameworks: ASP.NET Core, Entity Framework, Dapper
+- Tools: VS Code, Visual Studio, Docker, Git
+- Cloud: Azure
+- Databases: SQL Server, PostgreSQL
+----
 ## 🎓 Certifications
 Here are some of the certifications I've earned:
 - **[AZ-204: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/AndryaAfgani-7883/A9A2E257A27899A8?sharingId=B4584CC3E59307E)**  
