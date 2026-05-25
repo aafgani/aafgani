@@ -16,16 +16,6 @@
 - Cloud: Azure
 - Databases: SQL Server, PostgreSQL
 ----
-## 🎓 Certifications
-Here are some of the certifications I've earned:
-- **[AZ-204: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/AndryaAfgani-7883/A9A2E257A27899A8?sharingId=B4584CC3E59307E)**  
-- **[AZ-400: Azure DevOps Expert](https://learn.microsoft.com/api/credentials/share/en-us/AndryaAfgani-7883/FE9FA7B602D2856C?sharingId=B4584CC3E59307E)**
-<div>
-   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" title="AZ-204" alt="AZ-204" width="100" height="120"/>&nbsp;
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" title="AZ-204" alt="AZ-204" width="100" height="120"/>&nbsp;
-</div>
-
----
 
 ## 🚀 Projects
 Here are some projects I’m working on or have completed:
