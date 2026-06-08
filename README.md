@@ -25,5 +25,8 @@ Here are some projects I’m working on or have completed:
 
 ---
 ### Github Stats : 
-(https://github-readme-stats.vercel.app/api?username=aafgani&show_icons=true)
+![](https://github-readme-stats.shion.dev/api?username=aafgani&theme=vue&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aafgani&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aafgani&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
