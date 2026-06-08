@@ -25,6 +25,5 @@ Here are some projects I’m working on or have completed:
 
 ---
 ### Github Stats : 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aafgani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=aafgani&show_icons=true)
 
